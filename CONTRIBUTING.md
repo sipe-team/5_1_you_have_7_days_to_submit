@@ -3,7 +3,7 @@
 ## 시작하기
 
 1. 이 저장소를 클론합니다
-2. `members/{본인-github-id}/` 폴더를 생성합니다
+2. `members/{이니셜}/` 폴더를 생성합니다
 3. `profile.md`를 작성합니다 (템플릿: [templates/profile.md](templates/profile.md))
 4. PR을 올려 자기소개를 완료합니다
 
@@ -19,25 +19,25 @@
 일요일    제품 소개서 작성 → PR 오픈 (마감: 일요일 자정)
 ```
 
-1. 브랜치 생성: `{github-id}/week{N}`
-2. `members/{github-id}/apps/week{N}-{앱이름}/` 폴더 생성
+1. 브랜치 생성: `{이니셜}/week{N}`
+2. `members/{이니셜}/apps/week{N}-{앱이름}/` 폴더 생성
 3. `README.md` (제품 소개서) 작성 (템플릿: [templates/app.md](templates/app.md))
 4. 스크린샷은 같은 폴더의 `screenshots/`에 저장
 5. PR 오픈
-   - 제목: `[week{N}] {앱이름} — {github-id}`
+   - 제목: `[week{N}] {앱이름} — {이니셜}`
    - 마감: **매주 일요일 자정**
 
 ### 회고 주 (3, 6주차)
 
-1. 브랜치 생성: `{github-id}/cycle{N}`
-2. `members/{github-id}/retrospectives/cycle-{N}.md` 작성 (템플릿: [templates/retrospective.md](templates/retrospective.md))
+1. 브랜치 생성: `{이니셜}/cycle{N}`
+2. `members/{이니셜}/retrospectives/cycle-{N}.md` 작성 (템플릿: [templates/retrospective.md](templates/retrospective.md))
 3. PR 오픈
-   - 제목: `[cycle{N}] 회고 — {github-id}`
+   - 제목: `[cycle{N}] 회고 — {이니셜}`
 
 ## 브랜치 규칙
 
 - `main` 직접 push 금지
-- 브랜치명: `{github-id}/week{N}` 또는 `{github-id}/cycle{N}`
+- 브랜치명: `{이니셜}/week{N}` 또는 `{이니셜}/cycle{N}`
 - PR을 통해서만 main에 머지
 
 ## 커밋 컨벤션
