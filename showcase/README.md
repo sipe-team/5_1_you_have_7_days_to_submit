@@ -20,7 +20,7 @@
 | 멤버 | 앱 이름 | 한 줄 소개 | 링크 |
 |------|---------|-----------|------|
 | seokyoung | Swim Dots | Apple Watch 수영 기록을 하프톤 도트 아트로 시각화하는 iOS 앱 | [소개서](week2/seokyoung/app.md) |
-| jbsim | Terminal AI Watcher | 스크롤 가능한 웹페이지를 여러 PNG로 나눠 한눈에 볼 수 있게 만드는 도구 | [소개서](week2/jun(jbsim)/app.md) |
+| jbsim | WebPage to PNG | 스크롤 가능한 웹페이지를 여러 PNG로 나눠 한눈에 볼 수 있게 만드는 도구 | [소개서](week2/jun(jbsim)/app.md) |
 | ymkim | 냉장고 레시피를 부탁해 v2 | 냉장고를 부탁해 팬 사이트를 NextJS 단일 풀스택으로 전환 | [소개서](week2/냉장고레시피를부탁해v2(ymkim)/app.md) |
 | jhkang | HTC - Hit The Circle | 아이템 시스템과 Firebase 연동 | [소개서](week2/htc(jhkang)/app.md) |
 

@@ -1,4 +1,4 @@
-# Terminal AI Watcher
+# WebPage to PNG
 
 ## 한 줄 소개
 > WebPage to PNG
@@ -16,5 +16,4 @@
 | 이미지 분할 | Pillow (PIL) | crop()만 써서 원본 픽셀 그대로 잘라내면 화질 손실 0. 무거운 OpenCV 쓸 일이 아니고, Python 이미지 처리의 사실상 표준 |
 | CLI 인터페이스 | Typer | 타입 힌트 기반이라 Kotlin에서 넘어온 입장에 자연스럽고, 자동 --help 생성과 검증이 공짜. argparse보다 코드량 적고 Click보다 모던함 |
 | 비동기 런타임 | asyncio | Playwright async API의 전제. wait_for_function으로 폰트 로딩 완료 같은 비동기 조건 대기에 필수 |
-
 
