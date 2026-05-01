@@ -56,39 +56,7 @@
 | 배포 | 구글 플레이, 앱인 토스 | 앱스토어는 ... 비싸니까 ... |
 | AI 활용 | Claude 로 주어진 기능에 대해 전체적인 게임 시스템을 설계하고, cursor로 AI 페어 프로그래밍 |
 
-## 주차별 작업 내역
-
-### Week 1 - 프로젝트 초기 세팅 및 기초 게임플레이 구현
-- Unity 2D 프로젝트 초기 세팅, Circle 태그/레이어/프리펩 생성
-- MVP 스크립트 추가 (원 생성, 이동, 입력 시스템)
-- 커서룰 및 프로젝트 가이드 문서 작성
-- 원 겹침 허용, 원 생성 버그 수정
-- 게임 씬 UI, 메인 화면, 스테이지 셀렉트 씬 UI 이미지 개선
-- MK 작업용 씬 추가 및 목업 UI 제작
-- 첫 번째 PR 머지 (MK_Personal 브랜치), 처음 생성 원 깜빡이는 버그 수정
-- 인게임 게임패널 추가 (상/하단 바 기본 세팅)
-- 원 테두리 추가 (콜라이더 확장), HealthBarSlider 체력 갱신 기능
-
-### Week 2 - 아이템 시스템 및 Firebase 연동
-- ItemBarSlider 0부터 채워지도록 수정, comboFill 삭제
-- 아이템 시스템 구현 (Bomb, Shield, Twice, Potion 리소스 추가)
-- 아이템 랜덤 로딩, 아이콘 배치
-- 버튼 클릭 감지 문제 수정 (SpriteRenderer → Image)
-- Firebase Analytics 연동 (Crashlytics는 종량제 문제로 폐기)
-- Bootstrap 씬 생성, 앱 초기화 로직 구현
-- 인증/로그인, 스테이지 모드 기능 추가
-- GameMode enum 추가 (Infinite, Stage), Lobby 씬 생성
-
-### Week 3 - 모바일 반응형 UI 및 로그인 기능 구현
-- Game 씬 모바일 반응형 적용 (PR #2 머지)
-- Firebase 패키지 추가, gitignore 설정
-- 로그인 UI 생성, 한글 폰트 (Noto Sans KR) 적용
-- 게임 시작 3초 카운트다운 기능 추가
-- Lobby → Game 씬 이동 버튼 연결
-- SafeArea 타이밍 경쟁 조건 버그 수정
-- CurrencyManager, PlayerDataManager 등 보조 매니저 추가
-
-### Week 4 - Game Over 패널 및 점수 시스템 완성
+## 이번 주 작업 내역
 - 데이터 모델 레이어 추가
 - Game Over Panel UI 추가
 - High Score(신기록) 갱신 기능 구현
