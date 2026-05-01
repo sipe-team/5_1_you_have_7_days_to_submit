@@ -6,6 +6,7 @@
 |---------|------|-----------|
 | 티모지 | 강서현 | 앱인토스로 배포 가능한 뽀모도로 알람 |
 | WOL | 김영민 | iPhone + Apple Watch에서 매직 패킷을 보내 PC를 원격으로 깨우는 앱 |
+| Coffee0 Race | 최윤한 | 참가자 이름을 넣고 3D 레이스로 커피 쏠 사람을 뽑는 웹앱 |
 | md-fitter | 고석영 | 마크다운을 입력하면 A4 용지 크기에 맞추어주는 브라우저 편집기 |
 | ChronoDeck | 김영민 | iPhone과 Apple Watch를 macOS용 커스텀 키보드/리모컨으로 만드는 Stream Deck 스타일 앱 |
 | HTC - Hit The Circle | 강주희 | 겹친 원을 클릭하며 점수를 얻어내는 하이퍼캐주얼 게임 |

@@ -9,6 +9,7 @@
 |------|---------|-----------|------|
 | seohyun | 티모지 | 연습용 뽀모도로 알람 구현 | [소개서](week0/seohyun/app.md) |
 | ymkim | WOL | iPhone + Apple Watch에서 매직 패킷을 보내 PC를 원격으로 깨우는 앱 | [소개서](week0/wol(ymkim)/app.md) |
+| unan | Coffee0 Race | 참가자 이름을 넣고 3D 레이스로 커피 쏠 사람을 뽑는 웹앱 | [소개서](week0/coffee0(unan)/app.md) |
 
 ## Week 1
 | 멤버 | 앱 이름 | 한 줄 소개 | 링크 |
