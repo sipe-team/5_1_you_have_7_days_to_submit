@@ -34,6 +34,7 @@
 | jbsim | Terminal AI Watcher 업데이트 | Terminal AI Watcher 알림 누락과 터미널 식별 문제를 개선 | [소개서](week3/jun(jbsim)/app.md) |
 | jhkang | HTC - Hit The Circle | 모바일 반응형 UI와 로그인 기능 구현 | [소개서](week3/htc(jhkang)/app.md) |
 | seohyun | mobum.gg 고도화 | 전적 수정/삭제, 다국어, 내부 게임을 추가한 mobum.gg 고도화 | [소개서](week3/seohyun/app.md) |
+| seokyoung | Music Digging | 신보를 사용자 취향에 맞춰 매주 묶어 Spotify 플레이리스트로 동기화하는 음악 발굴 자동화 | [소개서](week3/seokyoung/app.md) |
 
 ## Week 4
 | 멤버 | 앱 이름 | 한 줄 소개 | 링크 |
@@ -42,3 +43,4 @@
 | jbsim | WaveCatch | 영상 URL에서 오디오만 뽑아 WAV/MP3/원본으로 저장하는 macOS 데스크톱 앱 | [소개서](week4/jun(jbsim)/app.md) |
 | ymkim | Resumaker 지원 현황 관리 | Wanted/Remember 지원 현황을 크롤링 도구로 확인하고 지원 이력 vault에 반영하는 파이프라인 | [소개서](week4/resumaker-application-pipeline(ymkim)/app.md) |
 | seohyun | StealthTicker | 회사에서 주식 시세를 티 나지 않게 확인하는 VS Code 확장 | [소개서](week4/seohyun/app.md) |
+| seokyoung | Swim Dots HK | Apple Health 수영 기록을 HealthKit으로 직접 읽어 하프톤 도트 아트로 시각화하는 iOS 앱 | [소개서](week4/seokyoung/app.md) |
